@@ -1,0 +1,8 @@
+print("Operadores de suma y resta")
+
+print("Suma de dos numeros")
+a = float (input("Ingrese un numero para A"))
+b = float (input("Ingrese un numero para B"))
+
+TOTAL = a + b
+printf ("Suma total: ", Total)
